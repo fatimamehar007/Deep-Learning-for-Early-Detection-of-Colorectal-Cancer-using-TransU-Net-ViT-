@@ -1,0 +1,2 @@
+# Deep-Learning-for-Early-Detection-of-Colorectal-Cancer-using-TransU-Net-ViT-
+Developed a TransU-Net-based polyp segmentation model on the Kvasir-SEG dataset, achieving an accuracy of 0.91 and a Dice Score of 0.78.Used a Vision Transformer (ViT) backbone and a U-Net style decoder with skip connections. Utilized Dice Loss and Binary Cross-Entropy (BCE) for training to enhance segmentation accuracy. 
